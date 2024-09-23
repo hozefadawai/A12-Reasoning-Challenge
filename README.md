@@ -2,5 +2,5 @@
 
 |  Data Type | With Answer Verifier | Without Answer Verifier |
 |     :---:      |     :---:      |     :---:      |
-| Challenge |  41.92431972789116   |    35.70578231292517    |
-|    Easy   |   68.5472250947949   |    59.07359531196139    |
+| Challenge |  41.9243  |    35.7058  |
+|    Easy   |   68.5472  |    59.0736   |
